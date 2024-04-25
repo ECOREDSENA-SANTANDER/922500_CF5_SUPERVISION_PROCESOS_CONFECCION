@@ -2,18 +2,279 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 18%
+    right: 79%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 9%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 64%
+    right: 82%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 67%
+    right: 8%
 
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/mini-portada.png") !important
+  background-repeat: no-repeat
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+
+.fondo-t1
+  background-image: url("../assets/curso/temas/t1/fondo.png")
+  background-position: center bottom
+  background-size: 100% 88%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+.bg-intro
+  background-image: url("../assets/curso/temas/intro/fondo.png") 
+  background-position: center
+  background-repeat: no-repeat
+  background-size: cover
+.bg-slydeA-1
+  background-image: url("../assets/curso/temas/t3/fondo-slyda1.png") 
+  background-position: center
+  background-repeat: no-repeat
+  background-size: cover
+.bg-acento-contenido
+  background-color: $color-acento-contenido  
+.bg-secundario
+  background-color: $color-secundario
+.bg-1
+  background-color:#EFD2D8 !important
+.bg-2
+  background-color: #DCF5F7
+.bg-3
+  background-color: #FFF2F4  
+.bg-4
+  background-color: #FFE2E7
+.bg-5
+  background-color:#E8EEFD
+.bg-6
+  background-color: #FFE7DD
+.bg-7
+  background-color: #F9EFEA
+.bg-8
+  background-color:#DAECEC
+.bg-9
+  background-color:#F8DFD5 !important
+.bg-10
+  background-color: #C2EDEE
+.bg-11
+  background-color: #E8E8E8
+.bg-12
+  background-color:#85F2F4
+.bg-13
+  background-color: #0CE6EA
+.bg-14
+  background-color:#C0C0C0
+.bg-15
+  background-color: #DAC3C7
+.bg-16
+  background-color:#E7EEF5
+.bg-17
+  background-color:#DEF7F8
+.bg-18
+  background-color:#FDF3F5
+.bg-19
+  background-color: #E2F3F3
+.bg-20
+  background-color: #00ABAE
+.bg-21
+  background-color: #0075A4
+
+.mt-neg1
+  margin-top: -35px
+.mt-neg2  
+  margin-top: -35%
+.mt-neg3
+  margin-top: -10px
+.ml-n1
+  margin-left: -35%  
+  @media (max-width: $bp-max-sm)
+    margin-left: 0%  
+.my-n1
+  margin-top: -35%  
+  margin-bottom: -40%  
+.texto-oscuro
+  color: $color-sistema-texto !important
+.m-heigh405
+  min-height: 405px
+.m-heigh397
+  min-height: 397px
+.borde-1
+  border: 1px dotted #BABABA
+.borde-tabla-left
+  border-left: 1px solid #AFAFAF !important
+.borde-top-t4
+  border-top: 2px solid #AEAEAE 
+.borde-tb-t4
+  border-top: 2px solid #AEAEAE 
+  border-bottom: 2px solid #AEAEAE 
+.borde-t4
+  border: 4px solid #FFFFFF
+  border-radius: 20px  
+  @media (max-width: $bp-max-sm)
+    border: 0px
+.w-60
+  width: 60px  
+.w-90
+  width: 90px 
+.borde-t5
+  border-bottom: 5px solid #85F2F4
+.borde2-t5
+  border-bottom: 5px solid #B65E6E
+
+
+.subtitulo
+  background-color: #9F0925
+  padding: 7px 25px
+  border-radius: 19px
+  width: fit-content
+.tarjeta1
+  background-color: #FFFFFF
+  border: 1px solid #9F0925
+  border-radius: 17px
+.fondot2-2  
+  background-color: #FFFFFF
+  border: 1px solid #9F0925
+  border-radius: 22px
+.t22-border-top-left
+  border: 1px solid #9F0925
+  border-top-left-radius: 22px
+.t22-border-bottom-left
+  border: 1px solid #9F0925
+  border-bottom-left-radius: 22px  
+  border-top: 0px
+.t22-border-top-right
+  border: 1px solid #9F0925
+  border-top-right-radius: 22px
+  border-left: 0px
+.t22-border-bottom-right
+  border: 1px solid #9F0925
+  border-bottom-right-radius: 22px  
+  border-top: 0px
+  border-left: 0px
+.sabia-que
+  width: 200px
+  margin-top: -25%  
+.num-t4
+  background-color: #9F0925
+  width: 80px
+  height: 80px
+  border-radius: 100%
+  display: flex
+  justify-content: center
+  align-items: center
+  text-align: center
+  margin: 0 auto
+  span
+    color: #fff
+    font-size: 45px
+    font-weight: 900
+    height: 72px
+.tit-t5
+  background-color: #FAD1D9
+  border-bottom-left-radius: 25px 
+  border-bottom-right-radius: 25px 
+.tit-t7
+  background-color: #FF6E33
+  border-bottom-left-radius: 25px 
+  border-bottom-right-radius: 25px 
+.tarjeta-tema4
+  background-color: #FFFFFF
+  border: 4px solid #DEE9F0
+  border-radius: 25px
+.tarjeta-tema6
+  background-color: #FFFFFF
+  border: 1px solid #707070
+  border-radius: 17px
+  box-shadow: 0px 3px 6px #6e272744
+  transition: all 0.3s ease-out
+  .img-1
+    display: inherit
+  .img-2
+    display: none
+  &:hover
+    background-color: #9F0925
+    border-color: #9F0925
+    transition: all 0.3s ease-out
+    h4, p
+      color: #fff
+    .img-1
+      display: none
+    .img-2
+      display: inherit  
+.recuadro-t5
+  border: 3px solid #9F0925
+.bord-1
+  border-top-left-radius: 15px
+.bord-2
+  border-top-right-radius: 15px
+.bord-3
+  border-bottom-right-radius: 15px
+.bord-4
+  border-bottom-left-radius: 15px
+.num-t5
+  font-size: 57px
+  color: #AD5464
+  @media (max-width: $bp-max-xs)
+    font-size: 38px
+.num-t5-borde
+  border-right: 3px solid #AD5464  
+
+.color-punteado
+  border: dotted #0075A4 !important
+.tarj-punt1
+  border: dotted #EA526F
+  border-radius: 0px !important
+.tarj-punt2
+  border: dotted #36B7B9
+  border-radius: 0px !important
+.tarj-punt3
+  border: dotted #0075A4
+  border-radius: 0px !important
+
+.tabs-c__header
+  margin-bottom: 0px  
+.tabs-c__tab--active span
+  font-weight: bold
+.linea-tiempo-d__item__dots::after 
+  border-left: 5px dotted #DDB3BB
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title span
+  font-size: 19px 
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta
+  background-color: #F7E8E2
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.slyder-a__bullets__item:hover 
+  border-color: #339CE9 
+.slyder-a__bullets__item--active 
+  background-color: #339CE9
+  border-color: #339CE9 
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: #1448D3
+  background-image: url("../assets/componentes/arrow-white.svg") 
+.t-5 .horizontal-scroll
+  align-items: flex-start !important

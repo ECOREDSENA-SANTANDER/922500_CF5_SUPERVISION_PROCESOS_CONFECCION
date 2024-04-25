@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El trazo y corte es una actividad esencial en la fabricación de prendas de vestir. Los conocimientos y habilidades necesarios para realizar esta actividad correctamente permiten optimizar el uso de los materiales, mejorar la calidad de las prendas y garantizar la seguridad de los trabajadores. A continuación puede revisar un esquema gráfico que explica especialmente los dos procesos: el trazo y el corte.
 
     .row.justify-content-center
       .col-lg-10.mb-5

@@ -26,42 +26,42 @@
             .tarjeta.tarjeta-tema6.p-4
               h4.text-center Físicos
               .row.justify-content-center.mb-3
-                .col-6.col-md-3
+                .col-6.col-md-3.col-lg-6
                   img.img-1(src='@/assets/curso/temas/t6/ico1.svg' alt='')
                   img.img-2(src='@/assets/curso/temas/t6/ico1-w.svg' alt='')
               p.mb-0 Son todos aquellos factores ambientales que provocan efectos adversos para la salud por la intensidad, exposición y concentración, como son: humedad, polvo, microfibras, ruido, calor, frío, radiaciones.
             .tarjeta.tarjeta-tema6.p-4
               h4.text-center Químicos
               .row.justify-content-center.mb-3
-                .col-6.col-md-3
+                .col-6.col-md-3.col-lg-6
                   img.img-1(src='@/assets/curso/temas/t6/ico2.svg' alt='')
                   img.img-2(src='@/assets/curso/temas/t6/ico2-w.svg' alt='')
               p.mb-0 Generalmente son sustancias o elementos orgánicos e inorgánicos que por inhalación, absorción o ingestión generan lesiones o quemaduras al organismo como son tinturas, líquidos, aceites, gases.
             .tarjeta.tarjeta-tema6.p-4
               h4.text-center Ergonómicas
               .row.justify-content-center.mb-3
-                .col-6.col-md-3
+                .col-6.col-md-3.col-lg-6
                   img.img-1(src='@/assets/curso/temas/t6/ico3.svg' alt='')
                   img.img-2(src='@/assets/curso/temas/t6/ico3-w.svg' alt='')
               p.mb-0 Tienen que ver con el puesto de trabajo, los equipos, herramientas y objetos que por su forma, diseño, tamaño o peso producen daño, fatiga o alteraciones musculoesqueléticas por esfuerzos realizados por el trabajador, como son movimientos repetitivos, posiciones de trabajo o malas posturas. 
             .tarjeta.tarjeta-tema6.p-4
               h4.text-center Mecánicos 
               .row.justify-content-center.mb-3
-                .col-6.col-md-3
+                .col-6.col-md-3.col-lg-6
                   img.img-1(src='@/assets/curso/temas/t6/ico4.svg' alt='')
                   img.img-2(src='@/assets/curso/temas/t6/ico4-w.svg' alt='')
               p.mb-0 Hacen referencia a la relación del trabajador con equipos, herramientas y maquinarias, que por su diseño, ubicación, tamaño son potencialmente dañinas y generadoras de lesiones como montacargas, poleas, instalaciones eléctricas, máquinas de corte y otras herramientas de trabajo.
             .tarjeta.tarjeta-tema6.p-4
               h4.text-center Psicosociales 
               .row.justify-content-center.mb-3
-                .col-6.col-md-3
+                .col-6.col-md-3.col-lg-6
                   img.img-1(src='@/assets/curso/temas/t6/ico5.svg' alt='')
                   img.img-2(src='@/assets/curso/temas/t6/ico5-w.svg' alt='')
               p.mb-0 Se refiere a aspectos administrativos y organizacionales de interacción social y de relacionamiento con aspectos de las personas como la edad, las estructuras sociológicas inherentes a la empresa o el tipo de proceso productivo como son la organización, ambientes de trabajo y relaciones interpersonales.
             .tarjeta.tarjeta-tema6.p-4
               h4.text-center Biológicos 
               .row.justify-content-center.mb-3
-                .col-6.col-md-3
+                .col-6.col-md-3.col-lg-6
                   img.img-1(src='@/assets/curso/temas/t6/ico6.svg' alt='')
                   img.img-2(src='@/assets/curso/temas/t6/ico6-w.svg' alt='')
               p.mb-0 Se refiere a aspectos administrativos y organizacionales de interacción social y de relacionamiento con aspectos de las personas como la edad, las estructuras sociológicas inherentes a la empresa o el tipo de proceso productivo como son la organización, ambientes de trabajo y relaciones interpersonales.

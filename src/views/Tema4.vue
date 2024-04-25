@@ -140,12 +140,12 @@
         SlyderF(columnas="col-lg-6 col-xl-4")
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
-              .col-6.col-md-4
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono01.svg' alt='')
             p.mb-0 Cuando se está usando telas índigos con un volumen superior de 80 capas se recomienda utilizar la máquina vertical y el corte manual. Pero, en el corte automatizado se debe tener en cuenta la altura del tendido en relación con la capacidad de la máquina cortadora.
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
-              .col-6.col-md-4
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono02.svg' alt='')
             p.mb-0 Para extender tejidos que lleven peine y pelos se debe desde el inicio colocarlos hacia abajo, según el peso de la tela y el tipo de corte de la producción varía el número de capas en los tendidos.
           .tarjeta.tarjeta-tema4.p-3
@@ -155,17 +155,17 @@
             p.mb-0 Se debe revisar las tensiones de la máquina cuando se implementa el extendido automático, evitando encogimientos de la pieza, ya que las telas generalmente tienden a recuperar la tensión generada; de este proceso depende la calidad del corte. 
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
-              .col-6.col-md-4
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono04.svg' alt='')
             p.mb-0 Para validar si hay problemas de viro se rasga los extremos de tres capas, esto se implementa con el satín, chalís y chiffon; si se encuentra viro superior a 5 cm no se debe seguir con el extendido y se procede a revisar muchos más metros para ver si persiste esta tendencia. En caso de conservarla se debe devolver el material al proveedor. 
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
-              .col-6.col-md-4
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono05.svg' alt='')
             p.mb-0 Se recomienda implementar el corte con bloqueo y manualmente cuando se usan tejidos preteñidos y que llevan case de rayas, esto genera una atención especial cuando las piezas no casan, pues es necesario generar piezas más grandes que permitan el repite de tela para logar que casen, cortándolo manualmente basado en el molde real, para ello, se usa una máquina automática si el preteñido no tiene case. 
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
-              .col-6.col-md-4
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono06.svg' alt='')
             p.mb-0 Hay telas de mayor cuidado por su diseño, estampado o especificaciones técnicas del tejido y, desde el trazo se debe indicar estas especificaciones para tener en cuenta el sentido en la organización de capas (Clúster textil / Confección, diseño y moda, 2017). 
     

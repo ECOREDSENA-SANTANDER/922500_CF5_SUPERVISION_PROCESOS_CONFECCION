@@ -150,7 +150,7 @@
             p.mb-0 Para extender tejidos que lleven peine y pelos se debe desde el inicio colocarlos hacia abajo, según el peso de la tela y el tipo de corte de la producción varía el número de capas en los tendidos.
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
-              .col-6.col-md-4
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono03.svg' alt='')
             p.mb-0 Se debe revisar las tensiones de la máquina cuando se implementa el extendido automático, evitando encogimientos de la pieza, ya que las telas generalmente tienden a recuperar la tensión generada; de este proceso depende la calidad del corte. 
           .tarjeta.tarjeta-tema4.p-3

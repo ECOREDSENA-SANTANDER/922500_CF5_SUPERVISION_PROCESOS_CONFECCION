@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Trazo y corte',
     descripcionCurso:
-      'En toda la cadena de confección de prendas de vestir, la actividad de trazo y corte posee un valor fundamental. Los conocimientos básicos de este proceso y el buen manejo de los materiales y recursos permitirán que los proyectos se desarrollen de manera excelente. Por ello, en este componente se llevará a cabo un recorrido por las generalidades, tipos, planeación y herramientas de trazo y corte. Además, se abordarán aspectos relacionados con la salud ocupacional y las normas de seguridad industrial',
+      'En toda la cadena de confección de prendas de vestir, la actividad de trazo y corte posee un valor fundamental. Los conocimientos básicos de este proceso y el buen manejo de los materiales y recursos permitirán que los proyectos se desarrollen de manera excelente. Por ello, en este componente se llevará a cabo un recorrido por las generalidades, tipos, planeación y herramientas de trazo y corte. Además, se abordarán aspectos relacionados con la salud ocupacional y las normas de seguridad industrial.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -192,16 +192,8 @@ export default {
       tema: 'Almacenamiento de telas',
       referencia:
         'SENA. (s.f.). <em>Almacenamiento de telas</em>. Centro en Manufactura Textil y Cuero - Regional Distrito Capital.',
-      tipo: 'PDF',
+      tipo: 'Revisar carpeta de anexos',
       descarga: '/downloads/Anexo2_Almacenamiento_de_telas_y_sus_cuidados.pdf',
-    },
-    {
-      tema: 'Control de calidad',
-      referencia:
-        'SENA. (s.f.). <em>Confecciones Industriales. Aspectos generales del departamento de control de calidad</em>. Subdirección técnico-pedagógica.',
-      tipo: 'Libro',
-      link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/4251/3816_aspectos_generales_del_control_de_calidad.pdf?sequence=1&isAllowed=y',
     },
     {
       tema: 'Curso de Corte y confección: seguridad e higiene en el trabajo',
@@ -253,14 +245,14 @@ export default {
       tema: 'Seguridad',
       referencia:
         'MinSalud. (2017). <em>Programa de elementos de protección personal, uso y mantenimiento</em>. MinSalud.',
-      tipo: 'PDF',
+      tipo: 'Revisar carpeta de anexos',
       descarga: '/downloads/Anexo3_Elementos_de_protección_Personal.pdf',
     },
     {
       tema: 'Sistemas para elaborar trazos',
       referencia:
         'PIZANTEX. (2014). <em>Procesos de trazo y corte</em>. PIZANTEX.',
-      tipo: 'PDF',
+      tipo: 'Revisar carpeta de anexos',
       link: '/downloads/Anexo1_pisantex_trazo_y_corte.pdf',
     },
     {
@@ -373,12 +365,6 @@ export default {
     {
       referencia:
         'SENA. (s.f.). Almacenamiento de telas. Centro en Manufactura Textil y Cuero - Regional Distrito Capital.',
-    },
-    {
-      referencia:
-        'SENA. (s.f.).  Confecciones Industriales. Aspectos generales del departamento de control de calidad. Subdirección técnico-pedagógica.',
-      link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/4251/3816_aspectos_generales_del_control_de_calidad.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:

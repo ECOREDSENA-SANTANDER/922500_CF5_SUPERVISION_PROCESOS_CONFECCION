@@ -7,16 +7,16 @@
         span 7
       h1 Normas de seguridad industrial
 
-    .row.justify-content-center.align-items-end.mb-5
-      .col-lg-4.col-md-8.mb-4.mb-lg-0(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-md-8.mb-4.pe-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t7/img01.png' alt="") 
-      .col-lg-8(data-aos="fade-left")
-        p Los reglamentos internos de seguridad industrial en la Colombia son de carácter obligatorio, construirlos e implementarlos, y para eso se conforma al interior de las empresas los COPASO (Comité Paritario de Salud Ocupacional), ellos son los encargados de promocionar y ejecutar actividades que tengan como fin la salud del trabajador.
-        p Planear acciones que eviten o minimicen los factores de riesgo derivados de actividades laborales es uno de los objetivos de la seguridad y salud en el trabajo, entendiendo factores de riesgo como la posibilidad de perturbación en la salud o en la integridad física del trabajador a causa de la relación con un objeto, sustancia o fenómeno, así como materiales y equipos. En el área de corte se pueden definir los siguientes factores de riesgo:
+      .col-lg-8.mb-4.ps-lg-0(data-aos="fade-left")
+        .bg-22.p-4
+          p.mb-0 Los reglamentos internos de seguridad industrial en la Colombia son de carácter obligatorio, construirlos e implementarlos, y para eso se conforma al interior de las empresas los COPASO (Comité Paritario de Salud Ocupacional), ellos son los encargados de promocionar y ejecutar actividades que tengan como fin la salud del trabajador.
         
     .row.justify-content-center.align-center.mb-4(data-aos="fade-down")
-      .col-lg-10
-        .tit-t7.p-4
+      .col-lg-12
+        .tit-t8.p-4
           h2.text-white.text-center.mb-0 Normas de seguridad industrial
 
     ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-down")
@@ -57,52 +57,70 @@
         p Revisar la infraestructura física y condiciones ambientales esto puede evitar dificultades, una buena ventilación e iluminación, además de la revisión del estado del sistema eléctrico, siempre facilitará un espacio seguro de trabajo. 
       .tarjeta.color-acento-botones.p-3(x="63%" y="54%")
         h5.mb-2 11- Mantenimiento
-        p Las labores de mantenimiento sólo las pueden realizar personal autorizado, siga las instrucciones de su jefe inmediato en estas situaciones
+        p Las labores de mantenimiento sólo las pueden realizar personal autorizado, siga las instrucciones de su jefe inmediato en estas situaciones.
 
 
-    p.mb-4(data-aos="fade") Para conocer a profundidad la normatividad aplicable actualmente en Colombia sobre seguridad y salud en el trabajo se invita a estudiar el siguiente material: 
+    p.mb-4(data-aos="fade") Para conocer a profundidad la normatividad aplicable actualmente en Colombia sobre seguridad y salud en el trabajo se invita a estudiar el siguiente material:
 
-    .bg-12.p-4.mb-5(data-aos="fade-down")
-      .row.justify-content-center.align-items-center
-        .col-lg-8
+    .row.justify-content-center(data-aos="fade-down")
+      .col-lg-6.mb-4
+        .tarjeta.color-secundario.p-3.h-100
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img.w-60.m-auto(src="@/assets/curso/temas/t2/icono01.svg")
+              img(src="@/assets/curso/temas/t2/icono01.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Programa de elementos de protección personal.
+                  h3.mb-1.texto-oscuro Ley 1562 del 2012
+                  p.text-small.mb-0.texto-oscuro Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Elementos_de_protección_Personal.pdf')" target="_blank")
+                  a.boton.color-acento-botone.texto-blanco(:href="obtenerLink('/downloads/Ley1562de2012.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-      
-    .bg-13(data-aos="fade-down")
-      .row.justify-content-center.mb-5
-        .col-lg-1.col-md-2.col-4
-          img.mt-neg3(src="@/assets/curso/temas/t7/ico.svg")
-        .col-lg-11
-          .p-4
-            p A continuación, se presentan dos vídeos tutoriales para el ensamble de camisa, en relación a la confección de camisa Slim fit para hombre, y la confección de una camisa artesanalmente.
-            .row.justify-content-center.align-items-center
-              .col-lg-6
-                a.anexo.mb-4(href="https://www.mintrabajo.gov.co/documents/20147/45099/Resolucion06045_Mintrabajo_2.pdf/2135dd03-f30f-caa7-111f-e9f21f898f61" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p.mb-0 #[b PDF.] Resolución 060 del 2014. Por el cual se adopta el Plan nacional de seguridad y salud en el trabajo 2013-2021 y anexos.               
-              .col-lg-6
-                a.anexo.mb-4(:href="obtenerLink('/downloads/Ley1562de2012.pdf')" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p.mb-0 #[b PDF.] Ley 1562 del 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud.
-              .col-lg-6
-                .anexo.mb-4(href="https://www.youtube.com/embed/mbJvti9qHOU" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p.mb-0 #[b Enlace web.] Video seguridad e higiene en el trabajo.
+      .col-lg-6.mb-4
+        .tarjeta.color-secundario.p-3.h-100
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/t7/cta.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1.texto-oscuro Video seguridad e higiene en el trabajo
+                  p.text-small.mb-0.texto-oscuro Puede ir al sitio para profundizar el tema.
+                .col-sm-auto
+                  a.boton.color-acento-botone.texto-blanco(:href="('https://www.youtube.com/embed/mbJvti9qHOU')" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-globe
+
+    .row.justify-content-center(data-aos="fade-down")
+      .col-lg-6.mb-4
+        .tarjeta.color-secundario.p-3.h-100
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/t2/icono01.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1.texto-oscuro Resolución 060 del 2014
+                  p.text-small.mb-0.texto-oscuro Por la cual se se adopta el Plan nacional de seguridad y salud en el trabajo 2013-2021 y anexos.
+                .col-sm-auto
+                  a.boton.color-acento-botone.texto-blanco(:href="('https://www.mintrabajo.gov.co/documents/20147/45099/Resolucion06045_Mintrabajo_2.pdf/2135dd03-f30f-caa7-111f-e9f21f898f61')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+      .col-lg-6.mb-4
+        .tarjeta.color-secundario.p-3.h-100
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/t2/icono01.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1.texto-oscuro Programa de elementos de protección personal
+                  p.text-small.mb-0.texto-oscuro Puede revisar el documento para profundizar el tema.
+                .col-sm-auto
+                  a.boton.color-acento-botone.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Elementos_de_protección_Personal.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
 
 </template>
 

@@ -19,8 +19,10 @@
       SlyderA.align-items-start.t-5
         .row.justify-content-center.pb-lg-4.mb-5
           .col-12.col-md-10.mb-4
-            .tit-t5.p-4
-              h2.text-center.mb-0 Técnicas de corte
+            .tit-t5.d-flex.justify-content-center.px-4
+              img.w-270.pt-3(src='@/assets/curso/temas/t5/tit-img1.svg' alt="")
+              h2.text-center.mb-0.p-2 Técnicas de corte
+              img.w-270.pt-3.reverse(src='@/assets/curso/temas/t5/tit-img1.svg' alt="")
           .col-10
             p Existen muchas maneras de deslizar los útiles de corte por las líneas trazadas que corresponden a los trazos.
             p.mb-4 Para lograrlo hay técnicas manuales y técnicas sistematizadas, el valor que se invierte para adquirir cada una es proporcional a los resultados obtenidos.
@@ -41,13 +43,15 @@
                 h4.text-center.mb-0 Automatizado
               .color-punteado.p-4
                 p.mb-0 Existen sistemas de extendido y corte automatizados en el mercado. 
-                p.mb-0 Las órdenes de funcionamiento las emiten desde un software que abarca desde la elaboración de moldes, trazos y órdenes para extender, hasta finalizar con el proceso de cortar. 
-                p.mb-0 El extendido y el corte se realizan en una mesa diseñada para que pueda funcionar articulada con el software.
+                p.mb-0 Las órdenes de funcionamiento las emiten desde un #[em software] que abarca desde la elaboración de moldes, trazos y órdenes para extender, hasta finalizar con el proceso de cortar. 
+                p.mb-0 El extendido y el corte se realizan en una mesa diseñada para que pueda funcionar articulada con el #[em software].
         
         .row.justify-content-center.pb-lg-4.mb-lg-5
           .col-12.col-md-10.mb-4
-            .tit-t5.p-4
-              h2.text-center.mb-0 Técnicas de corte Herramientas y equipos de corte
+            .tit-t5.d-flex.justify-content-center.px-4
+              img.w-180.pt-3(src='@/assets/curso/temas/t5/tit-img2.svg' alt="")
+              h2.text-center.mb-0.p-3 Herramientas y equipos de corte
+              img.w-180.pt-3.reverse(src='@/assets/curso/temas/t5/tit-img2.svg' alt="")
           .col-10
             p En el área de trazo y corte se utiliza una serie de máquinas y herramientas propias para ese fin, unas con más nivel de tecnología que otras, entre ellas, unas diseñadas para grandes volúmenes y otras para pequeños lotes de producción.
             p.mb-4 Las más frecuentemente utilizadas son las siguientes:
@@ -59,8 +63,8 @@
                 .ps-4
                   .bg-acento-contenido.tarj-punt1.mb-3.px-5.py-2
                     h2.text-white.mb-0 Cortadoras de cuchilla vertical
-                  p Máquina eléctrica, provista de una cuchilla ubicada de manera vertical, que al activarla realiza un movimiento perpendicular y que le permite al empujarla avanzar, cortando las telas extendidas y permitiendo que las piezas queden sueltas para clasificarlas, y luego pasar a ensamblarlas, esta viene provista de unas cintas afiladoras que son intercambiables y que sirven al activarlas, para mantener la capacidad de corte en óptimas condiciones.
-                  p Este tipo de máquina es empujada u operada manualmente por el encargado de esta función, se mueve la cortadora dentro del tendido, dejando las piezas separadas; el cambio de las cuchillas lo realiza el mismo operario, las cuchillas de estas máquinas vienen en longitudes de 4”, 6”, 8”, 10” (pulgadas). El material sobrante de tela que no corresponde a piezas que se van a confeccionar se llama retal, y hace parte del desperdicio.
+                  p Máquina eléctrica provista de una cuchilla ubicada verticalmente, que al activarse realiza un movimiento perpendicular, permitiendo avanzar al empujarla. Esta máquina corta las telas extendidas, dejando las piezas sueltas para clasificarlas y posteriormente ensamblarlas. Está equipada con cintas afiladoras intercambiables que, al activarlas, mantienen la capacidad de corte en óptimas condiciones.
+                  p Este tipo de máquina es operada manualmente por el encargado de esta función. La cortadora se desplaza dentro del tendido, separando las piezas. El cambio de cuchillas es realizado por el mismo operario. Las cuchillas de estas máquinas vienen en longitudes de 4, 6, 8 y 10 pulgadas. El material sobrante de tela que no corresponde a piezas destinadas a la confección se llama retal, y forma parte del desperdicio.
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/temas/t5/tarj-2.png' alt='')
@@ -68,7 +72,7 @@
                 .ps-4
                   .bg-20.tarj-punt2.mb-3.px-5.py-2
                     h2.text-white.mb-0 Cortadora manual profesional
-                  p.py-lg-4 La fuente de su energía son baterías, se acciona de manera manual, no tiene la misma potencia que la eléctrica, sirve para cortar lotes de pocas unidades
+                  p.py-lg-4 La fuente de su energía son baterías, se acciona de manera manual, no tiene la misma potencia que la eléctrica, sirve para cortar lotes de pocas unidades.
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/temas/t5/tarj-3.png' alt='')
@@ -76,8 +80,8 @@
                 .ps-4
                   .bg-21.tarj-punt3.mb-3.px-5.py-2
                     h2.text-white.mb-0 Corte sin fin
-                  p En el caso de utilizar este tipo de máquina hay que tener en cuenta que es una máquina fija, inmóvil, estática y que el que se mueve es el tejido, se utiliza para cortes rectos, al empujar el material se le va dando la forma deseada, siguiendo las líneas del trazo.
-                  p El tiempo que se emplea es mínimo, se pueden cortar grandes bloques de material, y hay seguridad en la relación útil de corte y materiales.
+                  p Al utilizar este tipo de máquina, es importante tener en cuenta que es fija, inmóvil y estática, siendo el tejido el que se mueve. Esta máquina se utiliza para cortes rectos, y al empujar el material, se le da la forma deseada siguiendo las líneas del trazo.
+                  p El tiempo empleado es mínimo, permitiendo cortar grandes bloques de material con eficiencia. Además, se garantiza la seguridad en la relación entre la utilidad del corte y los materiales.
                   
 
     
@@ -85,16 +89,16 @@
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.1  Control de calidad en el corte
 
-    p.mb-4 Se puede definir calidad como el cumplimiento de especificaciones, teniendo en cuenta que estas o los requisitos del área de trazo y corte a cumplir son:
+    p.mb-4(data-aos="fade") Se puede definir calidad como el cumplimiento de especificaciones, teniendo en cuenta que estas o los requisitos del área de trazo y corte a cumplir son:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-8
         .bg-9
           .row.justify-content-center
-            .col-lg-5.col-md-8
+            .col-lg-6.col-md-8
               img(src='@/assets/curso/temas/t5/imag02.png' alt="")
-            .col-lg-7
-              .p-4 
+            .col-lg-6
+              .p-3 
                 ul.lista-ul.fa-ul.lista-ul--color.color-primario.mb-0
                   li.mb-0 
                     i.fas.fa-angle-right
@@ -116,7 +120,7 @@
                     | Numeración y alistamiento.
       
     p(data-aos="fade") Desde el proceso de calidad se planean actividades que tengan como fin lograr el cumplimiento y evitar no conformidades.   Para hacer seguimiento al cumplimiento de especificaciones en las actividades que se realizan en el área de trazo y corte se recomienda el siguiente cuadro, basado en la herramienta de control PHVA. 
-    p.mb-4(data-aos="fade") A continuación, un ejemplo que muestra actividades asociadas al proceso que se debe controlar, qué tipo de control se debe hacer, la herramienta o instrumento a utilizar y cuál acción de mejora implementar.
+    p.mb-4(data-aos="fade") A continuación, un ejemplo que presenta actividades asociadas al proceso que se debe controlar, qué tipo de control se debe hacer, la herramienta o instrumento a utilizar y cuál acción de mejora implementar.
     
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
       p.mb-0 #[b Tabla 2] Formato control de calidad
@@ -177,12 +181,12 @@
     
     .subtitulo.mb-4(data-aos="fade")
       h3.text-white.mb-0 Explicación de la tabla 2:
-    p.mb-4 El objetivo es hacer seguimiento a las actividades que se realizan en el área de trazo y corte para verificar que sí se están cumpliendo las especificaciones requeridas.
+    p.mb-4 El objetivo es hacer seguimiento a las actividades que se realizan en el área de trazo y corte para verificar que sí se están cumpliendo las especificaciones requeridas. A continuación, se explican las columnas de la tabla anterior: 
 
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-10
         .recuadro-t5.p-3.px-4
-          .row
+          .row.align
             .col-4.bg-10.p-4.bord-1
               h4 Columna actividades 
             .col-8.bg-9.p-4.bord-2
@@ -215,44 +219,47 @@
     
     p.mb-4(data-aos="fade") A continuación, se definen algunas recomendaciones para garantizar la calidad en las secciones que realizan actividades de corte:
 
-    .bg-19.py-4.pe-4(data-aos="fade-down")
-      .row
-        .col-lg-5.mb-4.mb-lg-0.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t5/imag03.png' alt="")
-        .col-lg-7.mb-4.mb-lg-0
-          .row.align-items-center.px-2.px-md-0
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 01
-            .col-10
-              p.mb-3 Al recibir las telas asegurarse de tener claro:  el nombre de la tela, la cantidad, para qué lotes está destinada, dónde y cómo se va a almacenar, etc.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 02
-            .col-10 
-              p.mb-4 Si las telas necesitan reposo previo, ejecutarlo.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 03
-            .col-10
-              p.mb-4 Al extender identificar las posibles irregularidades de la tela, proceder a marcarlas para luego reponer la pieza o cortar y sacar ese daño.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 04
-            .col-10
-              p.mb-4 Cuando se está cortando poner mucho cuidado con los “vencimientos de las telas”, con la posición y profundidad de los piquetes.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 05
-            .col-10
-              p.mb-2 Los pasadores deben venir cortados a la medida que el cliente los necesita, no de otra, ya que esto  lleva a afinarlos en lo posible, se sugiereenviar un retazo para posibles reposiciones.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 06
-            .col-10
-              p.mb-2 Al ingresar los lotes a las plantas hacer entrega de toda la información y elementos que se tengan, adicional entregar una remisión en la que se especifique: corte, referencia y cantidades por talla; esa información nunca sobra.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 07
-            .col-10 
-              p.mb-2 Al amarrar las piezas se recomienda juntar las piezas iguales, por ejemplo, todas las aletillas juntas, todas las relojeras juntas, todos los bolsillos juntos, etc., ya que la primera operación que se hace en las plantas es precisamente juntar las piezas iguales para cargarlas a las máquinas y si se hace desde el corte se está ganando tiempo.
-            .col-2.mb-3.num-t5-borde
-              span.num-t5 08
-            .col-10
-              p.mb-4 La actividad tíquetear debe tener en cuenta: no colocar el tiquete donde van a ir costuras o piezas como tapas, bolsillos traseros, charreteras o pretinas; se recomienda etiquetar por el derecho de la tela para que cuando se vaya construyendo la prenda no quede escondida. 
+    .row.fondo-t5.align-items-center.py-4
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center(data-aos="fade-down")
+
+          .row
+            .col-lg-5.mb-4.mb-lg-0.d-none.d-lg-block
+              img(src='@/assets/curso/temas/t5/imag03.png' alt="")
+            .col-lg-7.mb-4.mb-lg-0
+              .row.align-items-center.px-2.px-md-0
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 01
+                .col-10
+                  p.mb-3 Al recibir las telas asegurarse de tener claro:  el nombre de la tela, la cantidad, para qué lotes está destinada, dónde y cómo se va a almacenar, etc.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 02
+                .col-10 
+                  p.mb-3 Si las telas necesitan reposo previo, ejecutarlo.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 03
+                .col-10
+                  p.mb-4 Al extender identificar las posibles irregularidades de la tela, proceder a marcarlas para luego reponer la pieza o cortar y sacar ese daño.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 04
+                .col-10
+                  p.mb-4 Cuando se está cortando poner mucho cuidado con los “vencimientos de las telas”, con la posición y profundidad de los piquetes.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 05
+                .col-10
+                  p.mb-2 Al momento de tiquetear debe tener en cuenta no colocar el tiquete donde van a ir costuras o piezas como tapas, bolsillos traseros, charreteras o pretinas, se recomienda etiquetar por el derecho de la tela para que cuando se vaya construyendo la prenda no quede escondida.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 06
+                .col-10
+                  p.mb-2 Al amarrar las piezas se recomienda juntar las piezas iguales, por ejemplo, todas las aletillas juntas, todas las relojeras juntas, todos los bolsillos juntos, etc; ya que la primera operación que se hace en las plantas es precisamente juntar las piezas iguales para cargarlas a las máquinas con lo que se gana tiempo.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 07
+                .col-10 
+                  p.mb-2 Al ingresar los lotes a las plantas hacer entrega de toda la información y elementos que se tengan, adicional hacer una remisión en la que se especifique: corte, referencia, cantidades por talla, etc.
+                .col-2.mb-3.num-t5-borde
+                  span.num-t5 08
+                .col-10
+                  p.mb-4 Los pasadores deben venir cortados a la medida que el cliente los necesita, no de otra, ya que esto lleva a afinarlos, en lo posible enviar un retazo para posibles reposiciones.
 
 
 </template>

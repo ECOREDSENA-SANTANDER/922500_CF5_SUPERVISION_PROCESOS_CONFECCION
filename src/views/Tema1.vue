@@ -19,8 +19,7 @@
               iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             figcaption Video.
 
-          p.mb-4(data-aos="fade") La cadena de trazo y corte es uno de los procesos de mayor importancia en el proceso de la manufactura textil. Un error implica poner en riesgo la producción y genera pérdidas económicas, por ello, tenga presente que la tela representa un 80% del costo final de la prenda. 
-   
+          p(data-aos="fade") La cadena de trazo y corte es uno de los procesos más importantes en la manufactura textil. Un error implica poner en riesgo la producción y genera pérdidas económicas. Por ello, es importante tener presente que la tela representa un 80% del costo final de la prenda.
 
 
   

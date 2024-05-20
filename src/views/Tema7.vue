@@ -118,7 +118,7 @@
                   h3.mb-1.texto-oscuro Programa de elementos de protección personal
                   p.text-small.mb-0.texto-oscuro Puede revisar el documento para profundizar el tema.
                 .col-sm-auto
-                  a.boton.color-acento-botone.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Elementos_de_protección_Personal.pdf')" target="_blank")
+                  a.boton.color-acento-botone.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Elementos_proteccion_Personal.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

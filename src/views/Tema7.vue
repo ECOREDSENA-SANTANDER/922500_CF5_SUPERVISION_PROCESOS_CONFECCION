@@ -67,7 +67,7 @@
         .tarjeta.color-secundario.p-3.h-100
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/temas/t2/icono01.svg")
+              img.px-md-2.px-lg-0(src="@/assets/curso/temas/t2/icono01.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -81,7 +81,7 @@
         .tarjeta.color-secundario.p-3.h-100
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/temas/t7/cta.svg")
+              img.px-md-2.px-lg-0(src="@/assets/curso/temas/t7/cta.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -97,7 +97,7 @@
         .tarjeta.color-secundario.p-3.h-100
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/temas/t2/icono01.svg")
+              img.px-md-2.px-lg-0(src="@/assets/curso/temas/t2/icono01.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -111,7 +111,7 @@
         .tarjeta.color-secundario.p-3.h-100
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/temas/t2/icono01.svg")
+              img.px-md-2.px-lg-0(src="@/assets/curso/temas/t2/icono01.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0

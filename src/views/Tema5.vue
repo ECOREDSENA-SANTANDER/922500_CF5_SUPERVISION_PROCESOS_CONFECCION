@@ -20,9 +20,9 @@
         .row.justify-content-center.pb-lg-4.mb-5
           .col-12.col-md-10.mb-4
             .tit-t5.d-flex.justify-content-center.px-4
-              img.w-270.pt-3(src='@/assets/curso/temas/t5/tit-img1.svg' alt="")
+              img.w-270.d-none.d-lg-flex.pt-3(src='@/assets/curso/temas/t5/tit-img1.svg' alt="")
               h2.text-center.mb-0.p-2 Técnicas de corte
-              img.w-270.pt-3.reverse(src='@/assets/curso/temas/t5/tit-img1.svg' alt="")
+              img.w-270.d-none.d-lg-flex.pt-3.reverse(src='@/assets/curso/temas/t5/tit-img1.svg' alt="")
           .col-10
             p Existen muchas maneras de deslizar los útiles de corte por las líneas trazadas que corresponden a los trazos.
             p.mb-4 Para lograrlo hay técnicas manuales y técnicas sistematizadas, el valor que se invierte para adquirir cada una es proporcional a los resultados obtenidos.
@@ -49,9 +49,9 @@
         .row.justify-content-center.pb-lg-4.mb-lg-5
           .col-12.col-md-10.mb-4
             .tit-t5.d-flex.justify-content-center.px-4
-              img.w-180.pt-3(src='@/assets/curso/temas/t5/tit-img2.svg' alt="")
+              img.w-180.d-none.d-lg-flex.pt-3(src='@/assets/curso/temas/t5/tit-img2.svg' alt="")
               h2.text-center.mb-0.p-3 Herramientas y equipos de corte
-              img.w-180.pt-3.reverse(src='@/assets/curso/temas/t5/tit-img2.svg' alt="")
+              img.w-180.d-none.d-lg-flex.pt-3.reverse(src='@/assets/curso/temas/t5/tit-img2.svg' alt="")
           .col-10
             p En el área de trazo y corte se utiliza una serie de máquinas y herramientas propias para ese fin, unas con más nivel de tecnología que otras, entre ellas, unas diseñadas para grandes volúmenes y otras para pequeños lotes de producción.
             p.mb-4 Las más frecuentemente utilizadas son las siguientes:

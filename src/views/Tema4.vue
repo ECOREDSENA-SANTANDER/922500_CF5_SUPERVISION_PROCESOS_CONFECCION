@@ -212,7 +212,7 @@
             p Es muy normal que no todas las tallas se comercialicen en la misma cantidad, hay unas tallas que se venden más que otras, y esa información debe ser interpretada desde el área de trazo y corte. Por ese motivo se debe extender más la cantidad de tela en unas tallas que en otras, se tiene un ciclo de trabajo idéntico, pero cambia las longitudes y cantidades de las capas.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2
+      .col-lg-2.col-md-7.col-9
         img(src='@/assets/curso/temas/t4/icono07.svg' alt='')
       .col-lg-8
         .bg-22.p-4

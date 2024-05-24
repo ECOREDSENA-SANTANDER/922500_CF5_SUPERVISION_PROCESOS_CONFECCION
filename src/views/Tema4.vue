@@ -58,8 +58,8 @@
     p.mb-4(data-aos="fade") En el video se puede apreciar un ejemplo de tipos de tendido con diferentes características del material:
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-nkWodY_bPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Ejemplo de tipos de tendido con dierentes características del material
 
 
     Separador
@@ -176,8 +176,8 @@
     
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/KwkNZ9H8Pdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Características del material desde trazo y corte 
     
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")

@@ -10,14 +10,14 @@
     
     p.mb-4(data-aos="fade") En el siguiente recurso se presentan las generalidades básicas a tener en cuenta en las operaciones de trazo y corte.
     
-    .row.fondo-t1.align-items-center.py-4
+    .row.fondo-t1.align-items-center.pb-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center
           
           figure.mb-4
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video.
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/M7xj5bOQQbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video. Generalidades trazo y corte 
 
           p(data-aos="fade") La cadena de trazo y corte es uno de los procesos más importantes en la manufactura textil. Un error implica poner en riesgo la producción y genera pérdidas económicas. Por ello, es importante tener presente que la tela representa un 80% del costo final de la prenda.
 

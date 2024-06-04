@@ -25,7 +25,7 @@
             | El trazo es un dibujo de los moldes de la prenda que se va cortar, ayudando a determinar el consumo del material, fundamental para calcular con exactitud el costo de las prendas.
           li
             i.fas.fa-angle-right
-            | Conocerá como se realiza este proceso, ya sea de manera manual o mediantes un software; Algunos softwares son: OptiTex, Audaces, Gerber y Lectra.
+            span.mb-0 Conocerá como se realiza este proceso, ya sea de manera manual o mediante un software; Algunos softwares son: #[em OptiTex], Audaces, #[em Gerber] y Lectra.
           li
             i.fas.fa-angle-right
             | Todo el proceso de fabricación se divide en una serie de suboperaciones necesarias para la confección de una prenda en particular.

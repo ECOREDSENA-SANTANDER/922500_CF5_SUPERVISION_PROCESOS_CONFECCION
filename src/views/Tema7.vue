@@ -102,7 +102,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.texto-oscuro Resolución 060 del 2014
-                  p.text-small.mb-0.texto-oscuro Por la cual se se adopta el Plan nacional de seguridad y salud en el trabajo 2013-2021 y anexos.
+                  p.text-small.mb-0.texto-oscuro Por la cual se adopta el Plan nacional de seguridad y salud en el trabajo 2013-2021 y anexos.
                 .col-sm-auto
                   a.boton.color-acento-botone.texto-blanco(:href="('https://www.mintrabajo.gov.co/documents/20147/45099/Resolucion06045_Mintrabajo_2.pdf/2135dd03-f30f-caa7-111f-e9f21f898f61')" target="_blank")
                     span Descargar

@@ -193,7 +193,7 @@ export default {
       referencia:
         'SENA. (s.f.). <em>Almacenamiento de telas</em>. Centro en Manufactura Textil y Cuero - Regional Distrito Capital.',
       tipo: 'Revisar carpeta de anexos',
-      descarga: '/downloads/Anexo2_Almacenamiento_de_telas_y_sus_cuidados.pdf',
+      descarga: '/downloads/Anexo2_Almacenamiento_telas_y_sus_cuidados.pdf',
     },
     {
       tema: 'Curso de Corte y confección: seguridad e higiene en el trabajo',
@@ -246,14 +246,7 @@ export default {
       referencia:
         'MinSalud. (2017). <em>Programa de elementos de protección personal, uso y mantenimiento</em>. MinSalud.',
       tipo: 'Revisar carpeta de anexos',
-      descarga: '/downloads/Anexo3_Elementos_de_protección_Personal.pdf',
-    },
-    {
-      tema: 'Sistemas para elaborar trazos',
-      referencia:
-        'PIZANTEX. (2014). <em>Procesos de trazo y corte</em>. PIZANTEX.',
-      tipo: 'Revisar carpeta de anexos',
-      link: '/downloads/Anexo1_pisantex_trazo_y_corte.pdf',
+      descarga: '/downloads/Anexo3_Elementos_proteccion_Personal.pdf',
     },
     {
       tema: 'Tendedora de tela automática',
@@ -280,7 +273,7 @@ export default {
     {
       termino: 'Piquete',
       significado:
-        'Perforación en los costados de los moldes o patrones, que sirven como guías para ensamblar piezas o puntos de referencia para posicionar sobrepuestos.',
+        'perforaciones en los costados de los moldes o patrones, que sirven como guías para ensamblar piezas o puntos de referencia para posicionar sobrepuestos.',
     },
     {
       termino: 'Prendas de segunda',
@@ -293,7 +286,7 @@ export default {
         'Relación de relación, forma, tamaño, líneas o figuras, con puntos de referencia nombrados como patrones.',
     },
     {
-      termino: 'Software',
+      termino: '<em>Software</em>',
       significado:
         'Parte intangible de un sistema o sistemas, que mediante rutinas permite realizar tareas.',
     },
@@ -399,46 +392,46 @@ export default {
       autores: [
         {
           nombre: 'Pedro Luis Sossa Ramírez',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro:
             'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Liliana María Ceballos Gutiérrez',
-          cargo: 'Diseño y desarrollo curricular',
+          cargo: 'Diseño y Desarrollo Curricular',
           centro:
             'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Erika Blanco',
-          cargo: 'Experta temática',
+          cargo: 'Experta Temática',
           centro:
             'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Catherine Bedoya',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión industrial',
         },
         {
           nombre: 'Liliana Morales',
-          cargo: 'Revisión pedagógica y metodológica',
+          cargo: 'Revisión Pedagógica y Metodológica',
           centro: 'Regional Distrito Capital - Centro de Gestión industrial',
         },
         {
           nombre: 'Vilma Lucia Perilla',
-          cargo: 'Revisión pedagógica y metodológica',
+          cargo: 'Revisión Pedagógica y Metodológica',
           centro: 'Regional Distrito Capital - Centro de Gestión industrial',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional',
+          cargo: 'Diseñadora y Evaluadora Instruccional',
           centro:
             'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Asesor Pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

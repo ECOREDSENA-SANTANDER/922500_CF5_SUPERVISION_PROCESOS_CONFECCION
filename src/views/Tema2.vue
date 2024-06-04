@@ -25,12 +25,12 @@
     .bg-2.p-4
       .row.justify-content-center 
         .col-lg-10
-          p.mb-4(data-aos="fade") Este procedimiento de trazo se puede realizar de manera manual o mediante un software, en el mercado hay numerosas ofertas de estos programas como pueden ser:
+          p.mb-4(data-aos="fade") Este procedimiento de trazo se puede realizar de manera manual o mediante un #[em software], en el mercado hay numerosas ofertas de estos programas como pueden ser:
         .row.justify-content-center  
           .col-lg-8
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Figura 1.] Tipos de software
-            img.mb-3(src='@/assets/curso/temas/t2/fig1.svg', alt='')
+              p.mb-0 #[b Figura 1.] Tipos de #[em software]
+            img.mb-3(src='@/assets/curso/temas/t2/fig1.svg', alt='En la siguiente imagen encontrará información relacionada con los diversos tipos de software, como OPTITEX, AUDACES, GERBER y LECTRA.')
           //.col-lg-2.col-md-4.col-6.mb-3
             .tarjeta1.text-center.p-4
               img.mb-3(src='@/assets/curso/temas/t2/tarj1-img1.svg', alt='')
@@ -62,7 +62,7 @@
             img(src='@/assets/curso/temas/t2/imag1.png', alt='')
           .col-md-7
             p Se colocan los moldes sobre la tela o un papel que tenga las dimensiones adecuadas, se dibujan teniendo en cuenta la simetría requerida, la orientación de los hilos del tejido, la cantidad de tallas a dibujar y verificando el número de piezas por prenda. Esta actividad es fundamental para establecer los costos de la prenda, ya que es aquí donde se empiezan a definir los consumos de las materias primas más relevantes.
-            p El sistema manual es muy obsoleto, porque en el año 2021, la oferta de software para elaborar trazos es muy amplia. Aun así, en muchos departamentos de diseño, especialmente al elaborar muestras iniciales, se utiliza esta técnica. Se emplean moldes en cartulina, acetatos u otro material medianamente rígido para prolongar la utilidad de los moldes durante el mayor tiempo posible.
+            p El sistema manual es muy obsoleto, porque en el año 2021, la oferta de #[em software] para elaborar trazos es muy amplia. Aun así, en muchos departamentos de diseño, especialmente al elaborar muestras iniciales, se utiliza esta técnica. Se emplean moldes en cartulina, acetatos u otro material medianamente rígido para prolongar la utilidad de los moldes durante el mayor tiempo posible.
             .tarjeta.bg-24
               .row.justify-content-center.align-items-center
                 .col-lg-3.col-md-5.col-5
@@ -74,7 +74,7 @@
           .col-md-5.mb-4.mb-md-0
             img(src='@/assets/curso/temas/t2/imag2.png', alt='')
           .col-md-7
-            p Este tipo de trazo se realiza mediante un software diseñado para tal fin. Las medidas de los moldes o patrones se digitalizan o se ingresan en el programa. Si ya se tienen en un archivo, simplemente se indica cuál es la referencia que se va a trabajar y qué tallas se van a utilizar.
+            p Este tipo de trazo se realiza mediante un #[em software] diseñado para tal fin. Las medidas de los moldes o patrones se digitalizan o se ingresan en el programa. Si ya se tienen en un archivo, simplemente se indica cuál es la referencia que se va a trabajar y qué tallas se van a utilizar.
             p Se le proporciona la medida del ancho de la tela y las cantidades de tallas a dibujar, lo que implica una proporción. El programa, con esa información, procede a elaborar el trazo con criterios para cumplir las órdenes dadas, procurando el mejor uso del recurso tela y evitando el desperdicio. Este sistema es mucho más rápido que el manual, y la información y los patrones o moldes permanecen mejor guardados sin peligro de pérdidas y deterioros.
       
     
@@ -130,7 +130,7 @@
                 .bg-2.tarjeta.p-3     
                   .titulo-sexto.color-acento-contenido
                     p.mb-0 Elementos trazo manual
-                  img(src='@/assets/curso/temas/t2/imag05.png' alt="")
+                  img(src='@/assets/curso/temas/t2/imag05-02.png' alt="")
             .col-lg-6.ps-lg-0
               h3.text-center.pt-4.pt-lg-0 Trazo sistematizado
               .t22-border-top-right.p-2.m-heigh405
@@ -139,7 +139,7 @@
                   ul.lista-ul.fa-ul
                     li 
                       i.fas.fa-angle-right
-                      | Un programa o software con las propiedades necesarias para este fin, es decir,  ubicar la moldería en un área igual a la tela que va a utilizar. Normalmente va articulado con la función de creación de moldes o patrones, y en muchos casos está articulado con otras actividades de la línea de producción.
+                      span.mb-0 Un programa o #[em software] con las propiedades necesarias para este fin, es decir,  ubicar la moldería en un área igual a la tela que va a utilizar. Normalmente va articulado con la función de creación de moldes o patrones, y en muchos casos está articulado con otras actividades de la línea de producción.
                     li 
                       i.fas.fa-angle-right
                       span.mb-0 Un #[em hardware] o equipo que permita utilizar el #[em software].
@@ -150,7 +150,7 @@
                 .bg-6.tarjeta.p-3.p-2
                   .titulo-sexto.color-acento-contenido
                     p.mb-0 #[em Plotter] trazo sistematizado
-                  img(src='@/assets/curso/temas/t2/imag06.png' alt="")
+                  img(src='@/assets/curso/temas/t2/imag06-02.png' alt="")
 
 
     separador
@@ -172,7 +172,7 @@
         .row.justify-content-center
 
           .col-12
-            p.mb-4 El tipo de prenda que se va a producir y las cantidades esperadas ayudan a definir también qué dimensiones deben tener las áreas de trabajo. Si el tipo de prenda es pequeño, los moldes o patrones también serán pequeños: ropa interior, vestidos de baño, fajas, pañoletas, etc; no será necesaria un área muy grande y, si los lotes de producción son pequeños de acuerdo con las características de la organización, los largos de los trazos también pueden ser pequeños. Por supuesto, las mesas de extendido y corte serán pequeñas, como se presenta en la siguiente imagen.
+            p.mb-4 El tipo de prenda que se va a producir y las cantidades esperadas ayudan a definir también qué dimensiones deben tener las áreas de trabajo. Si el tipo de prenda es pequeño, los moldes o patrones también serán pequeños: ropa interior, vestidos de baño, fajas, pañoletas, etc. No será necesaria un área muy grande y, si los lotes de producción son pequeños de acuerdo con las características de la organización, los largos de los trazos también pueden ser pequeños. Por supuesto, las mesas de extendido y corte serán pequeñas, como se presenta en la siguiente imagen.
             
             .titulo-sexto.color-acento-contenido(data-aos="fade-down")
               p.mb-0 #[em Plotter] trazo sistematizado 
@@ -285,7 +285,7 @@
     .bg-9.p-4.mb-5(data-aos="fade-down")
       .row.justify-content-center.align-items-center
         .col-lg-6
-          h5 Los criterios para el almacenamiento de las materias primas tienen que ver con: 
+          h5 Los criterios para el almacenamiento de las materias primas se relacionan con:
           ul.lista-ul.fa-ul.lista-ul--color.color-primario.mb-0
             li 
               i.fas.fa-angle-right
@@ -318,7 +318,7 @@
           p Deben estar los materiales muy bien identificados con su ubicación para que sean accesibles de manera rápida, y con criterios de tener desplazamientos menores.
         
     .bg-9.p-4.mb-5(data-aos="fade-down")
-      .row.justify-content-center.align-items-center
+      .row.justify-content-center.align-items-end
         .col-lg-4.col-md-8.mb-4.mb-lg-0
           .titulo-sexto.color-acento-contenido
             p.mb-0 Bodega de telas 
@@ -326,13 +326,13 @@
         .col-lg-8
           h4 Recomendaciones generales para el almacenamiento            
           ul.lista-ul.fa-ul.lista-ul--color.mb-0
-            li 
+            li.mb-1 
               i.fas.fa-angle-right
               | No es conveniente dejar que la luz esté directamente y durante mucho tiempo sobre los rollos, ya que afectan su presentación, debido a que los componentes de la tela reaccionan con los rayos de luz y pueden producir deterioro.
-            li 
+            li.mb-1 
               i.fas.fa-angle-right
               | Para los tejidos blancos y/o claros se sugiere que estén protegidos con bolsas oscuras.
-            li 
+            li.mb-1 
               i.fas.fa-angle-right
               | Para eliminar o controlar el riesgo de contagio con humedad del piso y suciedades se utilizan estanterías o estibas para colocar los rollos.
             li 

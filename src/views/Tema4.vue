@@ -59,7 +59,7 @@
     figure(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/-nkWodY_bPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Ejemplo de tipos de tendido con dierentes características del material
+      figcaption Video. Ejemplo de tipos de tendido con diferentes características del material
 
 
     Separador
@@ -155,7 +155,7 @@
             .row.justify-content-center.mb-3
               .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/temas/t4/icono04.svg' alt='')
-            p.mb-0 Para validar si hay problemas de viro se rasga los extremos de tres capas, esto se implementa con el satín, chalís y chiffon; si se encuentra viro superior a 5 cm no se debe seguir con el extendido y se procede a revisar muchos más metros para ver si persiste esta tendencia. En caso de conservarla se debe devolver el material al proveedor. 
+            p.mb-0 Para validar si hay problemas de viro se rasga los extremos de tres capas, esto se implementa con el satín, chalís y #[em chiffon]; si se encuentra viro superior a 5 cm no se debe seguir con el extendido y se procede a revisar muchos más metros para ver si persiste esta tendencia. En caso de conservarla se debe devolver el material al proveedor. 
           .tarjeta.tarjeta-tema4.p-3
             .row.justify-content-center.mb-3
               .col-6.col-md-4.col-lg-6
@@ -199,7 +199,8 @@
       .p-5.bg-16(titulo="Extendido cara a cara")
         .row
           .col-md-12.mb-4.mb-md-0
-            p.mb-4 Se denomina también zig-zag, se refiere a ir dejando tejido en los dos sentidos, cuando va hacia arriba y cuando va regresando. Una de sus ventajas es la buena utilización del tiempo, es un tipo de extendido rápido, que se inicia en cualquiera de los extremos donde queda el cabo de la tela, allí se inicia el deslizamiento de la máquina hacia el otro extremo, dejando el tejido al mismo tiempo, al finalizar se dobla el extremo opuesto y se retrocede con el carro. Es uno de los más utilizados en la elaboración de blue jeans y tejido liso.
+            h4 Extendido cara a cara
+            p.mb-4 Se denomina también zig-zag, se refiere a ir dejando tejido en los dos sentidos, cuando va hacia arriba y cuando va regresando. Una de sus ventajas es la buena utilización del tiempo, es un tipo de extendido rápido, que se inicia en cualquiera de los extremos donde queda el cabo de la tela, allí se inicia el deslizamiento de la máquina hacia el otro extremo, dejando el tejido al mismo tiempo, al finalizar se dobla el extremo opuesto y se retrocede con el carro. Es uno de los más utilizados en la elaboración de #[em blue jeans] y tejido liso.
       .p-5.bg-16(titulo="Cara a cara girado")
         .row
           .col-md-12.mb-4.mb-md-0

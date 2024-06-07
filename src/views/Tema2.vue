@@ -30,7 +30,7 @@
           .col-lg-8
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 1.] Tipos de #[em software]
-            img.mb-3(src='@/assets/curso/temas/t2/fig1.svg', alt='En la siguiente imagen encontrará información relacionada con los diversos tipos de software, como OPTITEX, AUDACES, GERBER y LECTRA.')
+            img.mb-3(src='@/assets/curso/temas/t2/fig1-1.svg', alt='En la siguiente imagen encontrará información relacionada con los diversos tipos de software, como OPTITEX, AUDACES, GERBER y LECTRA.')
           //.col-lg-2.col-md-4.col-6.mb-3
             .tarjeta1.text-center.p-4
               img.mb-3(src='@/assets/curso/temas/t2/tarj1-img1.svg', alt='')
@@ -130,7 +130,7 @@
                 .bg-2.tarjeta.p-3     
                   .titulo-sexto.color-acento-contenido
                     p.mb-0 Elementos trazo manual
-                  img(src='@/assets/curso/temas/t2/imag05-02.png' alt="")
+                  img(src='@/assets/curso/temas/t2/imag05-03.png' alt="")
             .col-lg-6.ps-lg-0
               h3.text-center.pt-4.pt-lg-0 Trazo sistematizado
               .t22-border-top-right.p-2.m-heigh405
@@ -150,7 +150,7 @@
                 .bg-6.tarjeta.p-3.p-2
                   .titulo-sexto.color-acento-contenido
                     p.mb-0 #[em Plotter] trazo sistematizado
-                  img(src='@/assets/curso/temas/t2/imag06-02.png' alt="")
+                  img(src='@/assets/curso/temas/t2/imag06-03.png' alt="")
 
 
     separador

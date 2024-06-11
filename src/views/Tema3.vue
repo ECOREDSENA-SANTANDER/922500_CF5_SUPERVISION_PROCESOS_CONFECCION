@@ -196,7 +196,8 @@
     .bg-10.p-4.mb-4
       .row.justify-content-center
         .col-lg-9.mb-4.mb-md-0(data-aos="fade-right")
-          h4 Tiqueteado
+          .titulo-sexto.color-acento-contenido
+            p.mb-0 Tiqueteado
           p Consiste en colocar adhesivos en las piezas ya cortadas. Estos adhesivos contienen información importante como el número de corte, talla, consecutivo, entre otros. Ayudan a identificar operaciones y la ubicación de lotes, lo que es fundamental para el seguimiento de la producción en la planta. Igualmente, facilitan el ensamblaje de las piezas para asegurar que las prendas de vestir no presenten diferencias de tonalidad. De esta manera, se evita en las plantas de producción que se mezclen los diferentes lotes de producción, destacando la importancia de este proceso en la cadena de producción. 
         .col-lg-3.col-md-8.mb-4.mb-lg-0(data-aos="fade-left")
           img(src='@/assets/curso/temas/t3/imag13t3.png' alt="")

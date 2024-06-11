@@ -360,8 +360,8 @@
     #t_2_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.7  Reposo de telas
 
-    p.mb-4(data-aos="fade") Las telas, después del proceso de tejeduría y al ser dispuestas en rollos para evitar su deterioro y aprovechar el almacenaje, adquieren tensiones en sus tejidos. Una característica de los tejidos, en mayor o menor grado según su composición, es la capacidad de estirarse y recuperarse. Reposar la tela consiste en desplegarla o desenrollarla antes de extenderla, para que se libere de las tensiones adquiridas en su presentación en rollo. Al perder las tensiones, la tela recupera sus dimensiones normales. Se presenta un ejemplo en la siguiente imagen.
-
+    p.mb-4(data-aos="fade") Las telas, después del proceso de tejeduría y al ser dispuestas en rollos para evitar su deterioro y aprovechar el almacenaje, adquieren tensiones en sus tejidos. Una característica de los tejidos, en mayor o menor grado según su composición, es la capacidad de estirarse y recuperarse. Reposar la tela consiste en desplegarla o desenrollarla antes de extenderla, para que se libere de las tensiones adquiridas en su presentación en rollo. Al perder las tensiones, la tela recupera sus dimensiones normales. Se presenta un ejemplo en la siguiente imagen.    
+    
     .titulo-sexto.color-acento-contenido.mb-5
       p.mb-0 Telas     
 

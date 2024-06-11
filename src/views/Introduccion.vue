@@ -9,15 +9,17 @@
           i.fas.fa-info
       h1 Introducción
     
+    p.mb-4(data-aos="fade") La fabricación de ropa incluye numerosas actividades para hacer una prenda, incluye procesos como corte, costura y acabado. Todo el proceso de fabricación se divide en una serie de suboperaciones necesarias para la confección de una prenda en particular; algunas de estas operaciones varían según el tipo de equipo disponible, los métodos de trabajo utilizados y las habilidades de los trabajadores, siendo los trazos y cortes dos procesos principales de producción de prendas. 
+    
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/zMj9VTyCKIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Trazo y corte
     
-    p.mb-1(data-aos="fade") La fabricación de ropa incluye numerosas actividades para hacer una prenda, incluyendo procesos como corte, costura y acabado. Aquí conocerá generalidades, tipos y herramientas de trazo y corte.
-    p.mb-4(data-aos="fade") La cadena de trazo y corte es uno de los principales procesos de la manufactura textil. Un error implica poner en riesgo la producción generando pérdidas económicas.
+    //p.mb-1(data-aos="fade") La fabricación de ropa incluye numerosas actividades para hacer una prenda, incluyendo procesos como corte, costura y acabado. Aquí conocerá generalidades, tipos y herramientas de trazo y corte.
+    //p.mb-4(data-aos="fade") La cadena de trazo y corte es uno de los principales procesos de la manufactura textil. Un error implica poner en riesgo la producción generando pérdidas económicas.
 
-    .row.align-items-center.justify-content-center
+    //.row.align-items-center.justify-content-center
       .col-lg-7.mb-4(data-aos="fade-right")
         ul.lista-ul--color.color-primario.fa-ul
           li
@@ -35,7 +37,7 @@
       .col-lg-5.col-md-8.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/intro/intro.svg', alt='')
     
-    .row.justify-content-center.mb-4(data-aos="fade-down")
+    //.row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-7.pe-lg-0.mb-4
         .bg-intro.p-4.h-100.d-flex.align-items-center
           img(src='@/assets/curso/temas/intro/img.png', alt='')

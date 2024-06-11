@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF05_922500_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -209,8 +209,7 @@ export default {
       referencia:
         'SENA Red Producción de Contenidos Grupo. (2021). <em>Ejemplo de tipos de tendido con diferentes características del material</em> [video]. YouTube.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=AQuKp0yivEw&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://www.youtube.com/watch?v=-nkWodY_bPE',
     },
     {
       tema: 'Extendido y corte automático',
@@ -261,7 +260,7 @@ export default {
       referencia:
         'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). <em>Características del material desde trazo y corte</em> [video]. YouTube.',
       tipo: 'Video',
-      link: 'https://youtu.be/Ul-AmX5ioxQ',
+      link: 'https://youtu.be/M7xj5bOQQbQ',
     },
   ],
   glosario: [
@@ -341,9 +340,6 @@ export default {
         'MinSalud. (2017). Programa de elementos de protección personal, uso y mantenimiento. MinSalud.',
     },
     {
-      referencia: 'PIZANTEX. (2014). Procesos de trazo y corte. PIZANTEX.',
-    },
-    {
       referencia:
         'Resolución 6045 de 2014. [El Ministro del Trabajo]. Por la cual se adopta el Plan Nacional de Seguridad y Salud en el Trabajo 2013-2021. Diciembre 30 de 2014.',
       link:
@@ -362,13 +358,12 @@ export default {
     {
       referencia:
         'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). Características del material desde trazo y corte [video]. YouTube.',
-      link: 'https://youtu.be/Ul-AmX5ioxQ',
+      link: 'https://www.youtube.com/watch?v=KwkNZ9H8Pdg',
     },
     {
       referencia:
         'SENA Red Producción de Contenidos Grupo. (2021).  Ejemplo de tipos de tendido con diferentes características del material [video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?v=AQuKp0yivEw&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://www.youtube.com/watch?v=-nkWodY_bPE',
     },
   ],
   creditos: [
@@ -447,7 +442,7 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

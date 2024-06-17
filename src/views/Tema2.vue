@@ -13,7 +13,7 @@
       .col-lg-6(data-aos="fade-left")
         p Es un dibujo de los moldes de la prenda que se va a cortar. Se debe ubicar de acuerdo con el ancho de la tela y evitar al máximo dejar espacios vacíos, ya que eso contribuye al desperdicio de la tela. Primero se realiza un prototipo, el cual se hace a partir de un trazo para poder cortarlo. Esta actividad permite determinar el consumo de material, lo cual es fundamental para calcular con exactitud el costo de las prendas, ya que de aquí se extrae el consumo promedio por prenda.
         .cajon.color-acento-contenido.bg-1.px-4.pt-4.mb-4
-          .row 
+          .row.justify-content-center
             .col-md-10
               p.mb-5.mb-md-0 Este dibujo se hace con todas sus dimensiones sobre la tela o un papel; se dibujan los moldes de cada talla y en las cantidades que se pretenden comercializar.
             .col-md-2.col-4
